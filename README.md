@@ -10,6 +10,9 @@ canvas, here we are using svg.
 
 Link to demo: (https://fredyagomez.github.io/)
 
+![alt tag](https://github.com/fredyagomez/React-D3-Forces/blob/master/D3-force.gif?raw=true)
+
+
 # Instructions
 
 Development Front End
