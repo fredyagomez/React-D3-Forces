@@ -1,0 +1,28 @@
+{
+  "name": "React-D3-Force",
+  "version": "0.1.0",
+  "author": "Fredy A Gomez",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "4.4.1",
+    "moment": "2.13.0",
+    "react": "15.0.2",
+    "react-dom": "15.0.2",
+    "react-redux": "4.4.5",
+    "react-tap-event-plugin": "1.0.0",
+    "redux": "3.5.2",
+    "redux-logger": "2.6.1",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "enzyme": "^2.4.1",
+    "react-addons-test-utils": "^15.3.0",
+    "react-scripts": "^0.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test"
+  }
+}
